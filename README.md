@@ -2,7 +2,7 @@
 Public ATShop resources, project board and suggestions. https://atshop.io/
 
 # Issues & Bugs
-Issues and bugs for ATShop can be reported using GitHub issues: [ATShop Issues](https://github.com/WcAServices/ATShop/issues).
+Issues and bugs for ATShop can be reported at our [issues page](https://github.com/WcAServices/ATShop/issues).
 If you've discovered a bug that could potentially be abused, do contact us directly at [Security@ATShop.io](mailto:security@atshop.io) instead of creating an issue here.
 
 #### Feature Requests
